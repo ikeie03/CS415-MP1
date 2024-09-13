@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/ikeex/Desktop/cs415/CS415-MP1/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/ikeex/Desktop/cs415/CS415-MP1/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/ikeex/Desktop/cs415/CS415-MP1/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Materials/M_UIUC.uasset",
+				"/Users/ikeex/Desktop/cs415/CS415-MP1/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/ikeex/Desktop/cs415/CS415-MP1/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
 				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
 				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
 				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
