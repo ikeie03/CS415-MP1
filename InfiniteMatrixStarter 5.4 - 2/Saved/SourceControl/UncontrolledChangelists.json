@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/UI/WB_Healthbar.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/UI/ScoreWidget.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_Enemy.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Materials/M_CubeTexture.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Inputs/IA_Shoot.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Inputs/IMC_PlayerControls.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Inputs/IA_ShootProjectile.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Inputs/IMC_ShootControls.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Materials/PU-V-Full-Rev-RGB.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/UI/EnemiesHit.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/UI/EnemiesDestroyedWidget.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Inputs/Shoot.uasset",
+				"/Users/ikeex/Downloads/InfiniteMatrixStarter 5.4 - 2/Content/InfiniteMatrix/Inputs/IA_Shhot.uasset"
+			]
+		}
+	]
+}
